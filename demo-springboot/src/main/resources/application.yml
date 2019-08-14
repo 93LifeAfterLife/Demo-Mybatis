@@ -1,0 +1,5 @@
+com:
+  demo:
+    mybatis:
+      hello: hi!
+      world: new world!
